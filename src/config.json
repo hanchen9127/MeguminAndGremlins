@@ -1,0 +1,56 @@
+{
+  "levels": [
+    {
+      "layout": "PART1-Adventure.txt",
+      "wizard_cooldown": 0.3333,
+      "enemy_cooldown": 1.0
+    },
+    {
+      "layout": "PART2-Threat.txt",
+      "wizard_cooldown": 1.0,
+      "enemy_cooldown": 5.0
+    },
+    {
+      "layout": "PART3-Penetration.txt",
+      "wizard_cooldown": 0.05,
+      "enemy_cooldown": 4.0
+    },
+    {
+      "layout": "PART4-Lost.txt",
+      "wizard_cooldown": 1.0,
+      "enemy_cooldown": 1.0
+    },
+    {
+      "layout": "PART5-Elimination.txt",
+      "wizard_cooldown": 0.0,
+      "enemy_cooldown": 0.03
+    },
+    {
+      "layout": "PART6-Trap.txt",
+      "wizard_cooldown": 0.3,
+      "enemy_cooldown": 1.0
+    },
+    {
+      "layout": "PART7-Division.txt",
+      "wizard_cooldown": 0.2,
+      "enemy_cooldown": 1.0
+    },
+    {
+      "layout": "PART8-Besiege.txt",
+      "wizard_cooldown": 0.4,
+      "enemy_cooldown": 2.0
+    },
+    {
+      "layout": "PART9-Memory.txt",
+      "wizard_cooldown": 99999.0,
+      "enemy_cooldown": 0.03
+    },
+    {
+      "layout": "PART10-Evolution.txt",
+      "wizard_cooldown": 0.0,
+      "enemy_cooldown": 0.03
+    }
+  ],
+  "lives": 10
+}
+

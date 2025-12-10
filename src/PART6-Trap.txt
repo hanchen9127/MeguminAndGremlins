@@ -1,0 +1,33 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                  X
+X                W                 X
+X                                  X
+X                                  X
+X                                  X
+X                                  X
+X                                  X
+X                                  X
+X                                  X
+X                                  X
+X                                  X
+X                                  X
+X                                  X
+XBBBBBBBXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XBBGGGGGZX       E        XZGGGGGBBX
+XBBBB BBXXBXXXXXXXXXXXXXXXXXBBBBBBBX
+X B     XX                 B   XBBBX
+X       XPBBBBBBBBBBBBBBBXXBXX XBBBX
+X       GBGGGGGGGGGGGGGGB  BXX XBBBX
+X     X BGGGGGGGGGGGGGGGGBBBXX XBBBX
+X      BGGGGGGGGGGGGGGGGGGBBXX XBBBX
+X       BGGGGGGGGGGGGGGGGB BXX XBBBX
+X      BGGGGGGGGGGGGGGGGGGBBXXGXBBBX
+X     BGGGGGGGGGGGGGGGGGGGBB  XXBBBX
+X      BGB BGGGGGGGGGGGGGGBBB  XBBBX
+X  X    B B BGGGGGGGGGGGGGBBB GXBBBX
+X   X        BGGGGGGGGGGGGBB X XBBBX
+X    X XXX GBGGGBGGGGGGGGGBBXXXXBBBX
+X     X    X BBBGBGGGBGGGGB        X
+X       BBBBB   BBBBB BBBBXXXXXXX  X
+XG      BBBBBB   B   BBBBBBBB      X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
