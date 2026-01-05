@@ -19,7 +19,7 @@ dependencies {
 }
 
 application {
-    mainClassName = 'gremlins.App'
+    mainClass = 'gremlins.App'
 }
 
 test {
